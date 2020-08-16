@@ -1,0 +1,2 @@
+#minute	hour	day	month	weekday	command
+*/3	*	*	*	*	/usr/bin/healer.sh
